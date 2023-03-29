@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamaledvoy/test/issues"
   },
-  "homepage": "https://github.com/kamaledvoy/test#readme"
+  "homepage": "https://github.com/kamaledvoy/test#readme",
+  "publishConfig": {
+    "@kamaledvoy:registry": "https://npm.pkg.github.com"
+  }
 }
