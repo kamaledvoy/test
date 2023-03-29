@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kamaledvoy/test#readme",
   "publishConfig": {
-    "@kamaledvoy:registry": "https://npm.pkg.github.com"
+    "@kamaledvoy:registry": "https://npm.pkg.github.com/:_authToken=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"
   }
 }
